@@ -1,0 +1,54 @@
+c:\users\usuariopc\documents\visual studio 2015\Projects\Hospital092\Hospital092\bin\Debug\Hospital092.exe
+c:\users\usuariopc\documents\visual studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.exe
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.Enfermedades.resources
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.Especialidades.resources
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.Medicamentos.resources
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.Proveedores.resources
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.AdministrarDoctores.resources
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.VerDoctores.resources
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.Consulta.resources
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.Informacion.resources
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.Procedimientos.resources
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.TipoOperacion.resources
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.Reportes.resources
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.Form1.resources
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.Resources.resources
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.vbproj.GenerateResource.Cache
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.xml
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\bin\Debug\Hospital092.exe.config
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\bin\Debug\Hospital092.pdb
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\bin\Debug\Hospital092.xml
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\bin\Debug\EntityFramework.dll
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\bin\Debug\EntityFramework.xml
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.vbprojResolveAssemblyReference.cache
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.pdb
+C:\Users\UsuarioPC\Documents\Visual Studio 2015\Projects\Hospital092\Hospital092\obj\Debug\Hospital092.index.resources
+C:\Users\multi\OneDrive\Escritorio\Proyecto Paola\Hospital092\Hospital092\bin\Debug\Hospital092.exe.config
+C:\Users\multi\OneDrive\Escritorio\Proyecto Paola\Hospital092\Hospital092\obj\Debug\Hospital092.exe
+C:\Users\multi\OneDrive\Escritorio\Proyecto Paola\Hospital092\Hospital092\obj\Debug\Hospital092.xml
+C:\Users\multi\OneDrive\Escritorio\Proyecto Paola\Hospital092\Hospital092\obj\Debug\Hospital092.pdb
+C:\Users\multi\OneDrive\Escritorio\Proyecto Paola\Hospital092\Hospital092\bin\Debug\Hospital092.exe
+C:\Users\multi\OneDrive\Escritorio\Proyecto Paola\Hospital092\Hospital092\bin\Debug\Hospital092.pdb
+C:\Users\multi\OneDrive\Escritorio\Proyecto Paola\Hospital092\Hospital092\bin\Debug\Hospital092.xml
+C:\Users\multi\OneDrive\Escritorio\Proyecto Paola\Hospital092\Hospital092\bin\Debug\EntityFramework.dll
+C:\Users\multi\OneDrive\Escritorio\Proyecto Paola\Hospital092\Hospital092\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\multi\OneDrive\Escritorio\Proyecto Paola\Hospital092\Hospital092\bin\Debug\EntityFramework.xml
+C:\Users\multi\OneDrive\Escritorio\Proyecto Paola\Hospital092\Hospital092\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\multi\OneDrive\Escritorio\Proyecto Paola\Hospital092\Hospital092\obj\Debug\Hospital092.vbprojResolveAssemblyReference.cache
+C:\Users\multi\OneDrive\Escritorio\Proyecto Paola\Hospital092\Hospital092\obj\Debug\Hospital092.Enfermedades.resources
+C:\Users\multi\OneDrive\Escritorio\Proyecto Paola\Hospital092\Hospital092\obj\Debug\Hospital092.Especialidades.resources
+C:\Users\multi\OneDrive\Escritorio\Proyecto Paola\Hospital092\Hospital092\obj\Debug\Hospital092.Medicamentos.resources
+C:\Users\multi\OneDrive\Escritorio\Proyecto Paola\Hospital092\Hospital092\obj\Debug\Hospital092.Proveedores.resources
+C:\Users\multi\OneDrive\Escritorio\Proyecto Paola\Hospital092\Hospital092\obj\Debug\Hospital092.AdministrarDoctores.resources
+C:\Users\multi\OneDrive\Escritorio\Proyecto Paola\Hospital092\Hospital092\obj\Debug\Hospital092.VerDoctores.resources
+C:\Users\multi\OneDrive\Escritorio\Proyecto Paola\Hospital092\Hospital092\obj\Debug\Hospital092.index.resources
+C:\Users\multi\OneDrive\Escritorio\Proyecto Paola\Hospital092\Hospital092\obj\Debug\Hospital092.Consulta.resources
+C:\Users\multi\OneDrive\Escritorio\Proyecto Paola\Hospital092\Hospital092\obj\Debug\Hospital092.Informacion.resources
+C:\Users\multi\OneDrive\Escritorio\Proyecto Paola\Hospital092\Hospital092\obj\Debug\Hospital092.Procedimientos.resources
+C:\Users\multi\OneDrive\Escritorio\Proyecto Paola\Hospital092\Hospital092\obj\Debug\Hospital092.TipoOperacion.resources
+C:\Users\multi\OneDrive\Escritorio\Proyecto Paola\Hospital092\Hospital092\obj\Debug\Hospital092.Reportes.resources
+C:\Users\multi\OneDrive\Escritorio\Proyecto Paola\Hospital092\Hospital092\obj\Debug\Hospital092.Form1.resources
+C:\Users\multi\OneDrive\Escritorio\Proyecto Paola\Hospital092\Hospital092\obj\Debug\Hospital092.Resources.resources
+C:\Users\multi\OneDrive\Escritorio\Proyecto Paola\Hospital092\Hospital092\obj\Debug\Hospital092.vbproj.GenerateResource.Cache
